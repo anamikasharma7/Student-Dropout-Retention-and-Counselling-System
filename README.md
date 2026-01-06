@@ -1,1 +1,0 @@
-# Student-Dropout-Retention-and-Counselling-System
