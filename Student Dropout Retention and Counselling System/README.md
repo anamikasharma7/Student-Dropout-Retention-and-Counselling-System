@@ -1,10 +1,10 @@
 # DropTrack.AI
 
-An **AI-based Student Dropout Prediction and Counseling System** designed to prevent student dropouts and promote education through early intervention and support.
+An **Student Dropout Prediction and Counseling System** designed to prevent student dropouts and promote education through early intervention and support.
 
 ## 🎯 Project Overview
 
-DropTrack.AI is an innovative platform that leverages artificial intelligence to identify students at risk of dropping out and provides timely intervention through a comprehensive counseling system. The project aims to:
+Student Dropout Prediction and Counseling System is an innovative platform that leverages artificial intelligence to identify students at risk of dropping out and provides timely intervention through a comprehensive counseling system. The project aims to:
 
 - Predict potential dropout cases before they occur
 - Provide targeted counseling and support
